@@ -1,3 +1,5 @@
+
 window.addEventListener('load', function() {
-  this.alert('HOLA BIENVENIDO A MI PAGINA');
+    console.log('La página se ha cargado completamente');
+    this.alert('¡La página se ha cargado completamente!');
 });
